@@ -9,6 +9,6 @@ Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Index Code : iFoerza (@danzzsx)
 
 Thanks to codepan and mdusmanansari
